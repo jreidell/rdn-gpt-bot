@@ -15,7 +15,7 @@ RDN AI Recipe Bot is a React-based web application that integrates the OpenAI AP
 1. **Clone the Repository**
 
     ```bash
-    git clone [Repository URL]
+    git clone https://github.com/jreidell/rdn-gpt-bot.git
     ```
 
 2. **Install Dependencies**
