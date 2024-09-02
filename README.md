@@ -24,7 +24,7 @@ To install and run this application locally, follow these steps:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/rdn-ai-recipe-bot.git
+git clone https://github.com/jreidell/rdn-gpt-bot.git
 cd rdn-ai-recipe-bot
 ```
 
@@ -50,7 +50,7 @@ After completing the installation steps, you can start the development server:
 npm run dev
 ```
 
-This will launch the application in development mode. Open your browser and navigate to `http://localhost:3000` to interact with the RDN AI Recipe Bot.
+This will launch the application in development mode. Open your browser and navigate to `http://localhost:5173` to interact with the RDN AI Recipe Bot.
 
 ### Using the RDN AI Recipe Bot
 
