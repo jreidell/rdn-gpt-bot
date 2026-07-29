@@ -26,5 +26,9 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^8.1.1"
+  },
+  "overrides": {
+    "brace-expansion": "2.1.2",
+    "postcss": "8.5.18"
   }
 }
